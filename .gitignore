@@ -1,0 +1,68 @@
+# =========================
+# Spring Boot / Java
+# =========================
+target/
+build/
+out/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+logs/
+
+# =========================
+# IDE - IntelliJ
+# =========================
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# =========================
+# IDE - Eclipse
+# =========================
+.project
+.classpath
+.settings/
+.springBeans
+.sts4-cache/
+
+# =========================
+# IDE - VSCode
+# =========================
+.vscode/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Gradle
+# =========================
+.gradle/
+build/
+
+# =========================
+# Maven
+# =========================
+target/
+
+# =========================
+# Environment files
+# =========================
+.env
+.env.*
+application-local.yml
+application-local.properties
+
+# =========================
+# Test output
+# =========================
+test-output/
+coverage/
